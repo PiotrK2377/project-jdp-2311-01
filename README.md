@@ -1,3 +1,3 @@
-#Team project - REST API Online Shop
+# Team project - REST API Online Shop
 
-##1.Projext goal
+## 1.Projext goal
